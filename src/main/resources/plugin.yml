@@ -1,0 +1,5 @@
+name: KokutoLib
+version: '${version}'
+main: karinntou0207.plugins.kokutolib.KokutoLib
+api-version: 1.16
+description: For kokutoRPG
